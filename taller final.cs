@@ -141,8 +141,8 @@ class HelloWorld
 
         // Reservas iniciales
         habitaciones[0].Reservar("Samuel Montiel");
-        habitaciones[1].Reservar("Samuel Romero");
-        habitaciones[2].Reservar("Anyel Torregrosa");
+        habitaciones[1].Reservar("jordan quintero");
+        habitaciones[2].Reservar("dunga monsalvo");
 
         // Aplicar descuento
         habitaciones[2].AplicarDescuento(10);
