@@ -140,7 +140,7 @@ class HelloWorld
         habitaciones.Add(new HabitacionHotel(303, "Suite", 200000));
 
         // Reservas iniciales
-        habitaciones[0].Reservar("Samuel Montiel");
+        habitaciones[0].Reservar("alan munive");
         habitaciones[1].Reservar("mateo montiel");
         habitaciones[2].Reservar("dunga monsalvo");
 
